@@ -1,0 +1,11 @@
+button:disabled {
+    color: gray;
+
+    &:hover {
+        background-color: initial;
+    }
+}
+
+.no-results {
+    text-align: center;
+}
